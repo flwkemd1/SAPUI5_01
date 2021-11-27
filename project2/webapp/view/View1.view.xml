@@ -8,6 +8,7 @@
 		<App id="app">
 			<pages>
 				<Page id="page" title="{i18n>title}">
+                <Text text = "git 테스트"/>
 					<content />
 				</Page>
 			</pages>
