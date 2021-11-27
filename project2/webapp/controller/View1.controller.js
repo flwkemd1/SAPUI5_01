@@ -6,7 +6,7 @@ sap.ui.define([
 	 */
 	function (Controller) {
 		"use strict";
-
+//주석 추가
 		return Controller.extend("project2.controller.View1", {
 			onInit: function () {
 
